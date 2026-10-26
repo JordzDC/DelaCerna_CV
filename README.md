@@ -18,4 +18,4 @@ Jorodz Dela Cerna
 
 ## Live Vercel Link
 
-To be added — replace this line with the live Vercel deployment URL.
+[View the live website](https://delacernacv.vercel.app/)
